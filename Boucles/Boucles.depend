@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549229056 source:d:\c\c\boucles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
